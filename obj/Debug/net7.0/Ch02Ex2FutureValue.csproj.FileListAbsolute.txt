@@ -1,0 +1,8 @@
+/Users/alexanderaryanfar/Projects/Ch02Ex2FutureValue/Ch02Ex2FutureValue/obj/Debug/net7.0/Ch02Ex2FutureValue.csproj.AssemblyReference.cache
+/Users/alexanderaryanfar/Projects/Ch02Ex2FutureValue/Ch02Ex2FutureValue/obj/Debug/net7.0/Ch02Ex2FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderaryanfar/Projects/Ch02Ex2FutureValue/Ch02Ex2FutureValue/obj/Debug/net7.0/Ch02Ex2FutureValue.AssemblyInfoInputs.cache
+/Users/alexanderaryanfar/Projects/Ch02Ex2FutureValue/Ch02Ex2FutureValue/obj/Debug/net7.0/Ch02Ex2FutureValue.AssemblyInfo.cs
+/Users/alexanderaryanfar/Projects/Ch02Ex2FutureValue/Ch02Ex2FutureValue/obj/Debug/net7.0/Ch02Ex2FutureValue.csproj.CoreCompileInputs.cache
+/Users/alexanderaryanfar/Projects/Ch02Ex2FutureValue/Ch02Ex2FutureValue/obj/Debug/net7.0/Ch02Ex2FutureValue.MvcApplicationPartsAssemblyInfo.cache
+/Users/alexanderaryanfar/Projects/Ch02Ex2FutureValue/Ch02Ex2FutureValue/obj/Debug/net7.0/Ch02Ex2FutureValue.RazorAssemblyInfo.cache
+/Users/alexanderaryanfar/Projects/Ch02Ex2FutureValue/Ch02Ex2FutureValue/obj/Debug/net7.0/Ch02Ex2FutureValue.RazorAssemblyInfo.cs

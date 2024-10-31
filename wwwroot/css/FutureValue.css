@@ -1,0 +1,32 @@
+﻿body {
+    padding: 2em;
+    font-family: 'Poppins', sans-serif;
+    background-color: #fafafa; /* A light grey for a clean and minimalistic background */
+    color: #333333; /* A strong contrast with classic dark grey text */
+}
+
+h1 {
+    margin-top: 0;
+    color: #2c3e50; /* Deep blue-grey for a bold title */
+    font-size: 2.5em; /* A larger size for a pronounced header */
+    text-shadow: none; /* Removing text shadow for a flat design */
+}
+
+label {
+    display: inline-block;
+    width: 100%; /* Full width for a modern form look */
+    margin-bottom: 0.5em; /* Adding space below the label */
+    font-weight: normal; /* Less emphasis on the boldness */
+    color: #7f8c8d; /* Soft grey for label text */
+    text-transform: uppercase; /* A stylistic choice for labels */
+    letter-spacing: 1px; /* Adding some letter spacing */
+}
+
+div {
+    margin-bottom: 2em; /* More space between divs for a cleaner layout */
+    background-color: #ffffff; /* Pure white for div backgrounds */
+    padding: 2em; /* More padding for a spacious feel */
+    border: 1px solid #dddddd; /* A subtle border */
+    border-radius: 5px; /* Less pronounced rounded corners */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05); /* A very subtle shadow for depth */
+}
